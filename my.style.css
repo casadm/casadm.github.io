@@ -1,6 +1,8 @@
 h1 {
   text-decoration: underline;
 font-family: "Brush Script MT", cursive;
+font-size: 55px;
+text-align: center;
 }
 
 #content {
@@ -45,12 +47,12 @@ font-family: "Brush Script MT", cursive;
 }
 #column_five {
   font-size: 30px;
-  background-color: purple;
+  background-image: url("lotus.jpg");
   border-style: solid;
   float:none;
-  margin-top: 10px;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-top: 12px;
+  margin-left: 30%;
+  margin-right: 30%;
   padding: 5%;
 }
 .my_class {
@@ -58,3 +60,7 @@ font-family: "Brush Script MT", cursive;
 }
 .text_center {
   text-align: center;}
+
+  .subheader {
+
+  }
